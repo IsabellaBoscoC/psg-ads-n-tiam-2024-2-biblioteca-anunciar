@@ -6,12 +6,13 @@
 
 `4 peiodo`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto de extensão.
+Criar uma aplicativo para a biblioteca da Igreja Igreja Bastida Anunciar
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Isabella Bosco
+* Vitor Hugo
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
